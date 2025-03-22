@@ -37,8 +37,8 @@
 
 ```bash
 # Клонирование репозитория
-git clone https://github.com/your-username/vpn-detection-api.git
-cd vpn-detection-api
+git clone https://github.com/l033er/quear-api-vpn.git
+cd quear-api-vpn
 
 # Создание виртуального окружения
 python -m venv venv
